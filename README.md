@@ -1,3 +1,5 @@
+Deprecated; instead please use https://github.com/quarto-dev/quarto-actions to render and publish your Quarto projects.
+
 # A Github Action to Render Quarto Documents
 
 This repository stores the `quarto-render` [GitHub Action](https://github.com/features/actions) for use with [Quarto](https://quarto.org/) projects. This action will call `quarto render` on the root directory of the repo. It also has example workflows for some common uses centered around web publishing.
